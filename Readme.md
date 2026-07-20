@@ -10,7 +10,7 @@ This repository contains my JavaScript solutions to LeetCode problems.
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 4 |
+| Easy | 6 |
 | Medium | 0 |
 | Hard | 0 |
 
